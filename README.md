@@ -25,3 +25,7 @@ gem 'pattern_string_generator'
 > pattern.to_s
  => "Hello, World!"
 ```
+
+## Authors
+
+[Eugene Zolotarev](https://github.com/eugzol), [Vadim Venediktov](https://github.com/installero)
